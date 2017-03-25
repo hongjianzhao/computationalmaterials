@@ -3,14 +3,14 @@
 Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Hong Jian Zhao now is a researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, including ferroelectric/magnetic/multiferroic materials. Focusing on these materials, his current research interests include (1) designing/predicting novel materials with specific physical properties, (2) simulating/understanding the diverse experimental phenomena, and (3) developing the atomistic theory. 
 
 ## Education and Employment 
-### Bachelor (2006.9-2010.6)
-Materials Science and Engineering Department, Zhejiang University, China
+### Junior Research&Technology associate (2016.01.25-Now)
+Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
 ### Ph.D (2010.9-2015.6)
 Materials Science and Engineering Department, Zhejiang University, China
 ### Visiting student (2012.10.17-2013.06.27)
 Physics Department, University of Arkansas, USA
-### Junior Research&Technology associate (2016.01.25-Now)
-Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
+### Bachelor (2006.9-2010.6)
+Materials Science and Engineering Department, Zhejiang University, China
 
 ## Publications
 ### First-author or corresponding-author publications
@@ -70,8 +70,8 @@ Materials Research and Technology Department, Luxembourg Institute of Science an
 - [5] H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
 
 ### Contact
-Dr. Hong Jian Zhao
-Materials Research and Technology Department, Luxembourg Institute of Science and Technology (LIST), 5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg
-Email: dielectric_hjzhao@126.com
+#### Dr. Hong Jian Zhao
+- Materials Research and Technology Department, Luxembourg Institute of Science and Technology (LIST), 5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg
+- Email: dielectric_hjzhao@126.com
 
 

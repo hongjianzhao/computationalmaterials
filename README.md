@@ -69,8 +69,8 @@ Materials Science and Engineering Department, Zhejiang University, China
 - [4] H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
 - [5] H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
 
-### Contact
-##### Dr. Hong Jian Zhao
+## Contact
+### Dr. Hong Jian Zhao
 - Materials Research and Technology Department, Luxembourg Institute of Science and Technology (LIST), 5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg
 - Email: dielectric_hjzhao@126.com
 

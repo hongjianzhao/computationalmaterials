@@ -22,7 +22,7 @@ Physics Department, University of Arkansas, USA
 Materials Science and Engineering Department, Zhejiang University, China
 
 ## Publications 
-##### [Total: 28, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 5; APL 3; JPCM 6]
+#### [Total: 28, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 5; APL 3; JPCM 6; Others 11]
 - 2017
 28. I-T Bae, A Kovacs, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Elucidation of crystal and electronic structures within highly strained BiFeO3 by transmission electron microscopy and first-principles simulation, Sci. Rep. in press (2017).
 27. H J Zhao, L Bellaiche, X M Chen, J Íñiguez, Improper electric polarization in perovskite oxides with two magnetic sublattices, Nat. Commun. 8, 14025 (01/2017).

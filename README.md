@@ -4,12 +4,12 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 
 ## Research interests (Focusing on ferroic materials)
 - Based on group theory and symmetry analysis
-1 Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
-2 Lattice vibrations and phase transitions in perovskites
+1. Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
+2. Lattice vibrations and phase transitions in perovskites
 - Based on first-principles calculations
-3 Designing novel materials with specific physical properties
-4 Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
-5 Crystal structure prediction by USPEX or CALYPSO code
+3. Designing novel materials with specific physical properties
+4. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
+5. Crystal structure prediction by USPEX or CALYPSO code
 
 ## Education and Employment 
 ##### Research&Technology Associate (2016.01.25-Now)

@@ -3,13 +3,13 @@
 Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. He is the reviewer for various scientific journals, including Nat. Commun., Sci. Rep., J. Appl. Phys., J. Alloy Compd., J. Phys. D: Appl. Phys., Phase Transit., etc. 
 
 ## Research interests (Focusing on ferroelectric/magnetic/multiferroic materials)
-### (A) Based on group theory and symmetry analysis
-- Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
-- Lattice vibrations and phase transitions in perovskites
-### (B) Based on first-principles calculations
-- Designing novel materials with specific physical properties
-- Induced novel phenomena in traditional materials by pressure/strain induced phase transitions  
-- Crystal structure prediction by USPEX or CALYPSO code
+- Based on group theory and symmetry analysis
+1. Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
+2. Lattice vibrations and phase transitions in perovskites
+- Based on first-principles calculations
+3. Designing novel materials with specific physical properties
+4. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
+5. Crystal structure prediction by USPEX or CALYPSO code
 
 ## Education and Employment 
 ### Junior Research&Technology associate (2016.01.25-Now)

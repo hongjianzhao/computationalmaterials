@@ -12,13 +12,13 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 5. Crystal structure prediction by USPEX or CALYPSO code
 
 ## Education and Employment 
-- Junior Research&Technology associate (2016.01.25-Now)
+#### Research&Technology Associate (2016.01.25-Now)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
-- Ph.D (2010.9-2015.6)
+#### PhD student (2010.9-2015.6)
 Materials Science and Engineering Department, Zhejiang University, China
-- Visiting student (2012.10.17-2013.06.27)
+#### Visiting student (2012.10.17-2013.06.27)
 Physics Department, University of Arkansas, USA
-- Bachelor (2006.9-2010.6)
+#### Bachelor student (2006.9-2010.6)
 Materials Science and Engineering Department, Zhejiang University, China
 
 ## Publications

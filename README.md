@@ -1,7 +1,9 @@
 # Welcome to the home page of Hong Jian Zhao
 ## About Hong Jian Zhao
 Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. He is the reviewer for various scientific journals, including Nat. Commun., Sci. Rep., J. Appl. Phys., J. Alloy Compd., J. Phys. D: Appl. Phys., Phase Transit., etc. 
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Research interests (Focusing on ferroic materials)
 - Based on group theory and symmetry analysis
 1. Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
@@ -10,7 +12,9 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 3. Designing novel materials with specific physical properties
 4. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
 5. Crystal structure prediction by USPEX or CALYPSO code
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Education and Employment 
 ##### Research&Technology Associate (2016.01.25-Now)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
@@ -20,7 +24,9 @@ Materials Science and Engineering Department, Zhejiang University, China
 Physics Department, University of Arkansas, USA
 ##### Bachelor student (2006.09-2010.06)
 Materials Science and Engineering Department, Zhejiang University, China
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Publications 
 #### [Total: 28, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 5; APL 3; JPCM 6; Others 11]
 - 2017
@@ -57,7 +63,9 @@ Materials Science and Engineering Department, Zhejiang University, China
 3. W Z Yang, X Q Liu, H J Zhao, Y Q Lin, X M Chen, Structure, magnetic, and dielectric characteristics of Ln2NiMnO6 (Ln= Nd and Sm) ceramics, J. Appl. Phys. 112 (6), 064104 (09/2012).
 2. Q Q Wang, H J Zhao, X M Chen, Low-temperature dielectric behavior of BiFeO3-modified CaTiO3 incipient ferroelectric ceramics, J. Appl. Phys. 111 (12), 126101 (06/2012).
 1. H J Zhao, X Q Liu, X M Chen, Density functional investigations on electronic structures, magnetic ordering and ferroelectric phase transition in multiferroic Bi2NiMnO6, AIP Adv. 2, 022115(04/2012).
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Awards and Honors
 - Outstanding Graduates of Zhejiang Province (PhD student), The Department of Education of Zhejiang Province (2015)
 - Outstanding Graduates of Zhejiang University (PhD student), Zhejiang University (2015)
@@ -74,18 +82,24 @@ Materials Science and Engineering Department, Zhejiang University, China
 - 2007-2008, Scholarship for Excellent in Research and Innovation, Zhejiang University (2008)
 - 2007-2008, Excellent Student Awards, Zhejiang University (2008)
 - 2007-2008, First-Class Scholarship for Outstanding Merits, Zhejiang University (2008)
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Presentations
 1. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Ferroelectricity under charge carrier doping, E-MRS 2016 Fall Meeting, Warsaw, Poland, September 19-22, 2016 (Oral).
 2. H J Zhao, Exploring novel ferroic materials in perovskite oxides, School of Mechanical Science and Engineering Seminar, Jilin University, China, August 15th, 2016 (Invited talk in seminar).
 3. H J Zhao, W Ren, Y Yang, J Íñiguez, X M Chen, L Bellaiche, Hybrid improper ferroelectricity in perovskite superlattices, Chinese Materials Annual Meeting, Chengdu, China, July 05-07, 2014 (Invited talk).
 4. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
 5. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## GoogleScholar&ResearcherId
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en
 - Researcher ID: http://www.researcherid.com/rid/D-7937-2014
-#### -------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Contact
 ### Dr. Hong Jian Zhao
 - Materials Research and Technology Department, Luxembourg Institute of Science and Technology (LIST), 5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg

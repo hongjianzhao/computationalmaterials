@@ -99,12 +99,12 @@ Materials Science and Engineering Department, Zhejiang University, China
 - Researcher ID: http://www.researcherid.com/rid/D-7937-2014
 
 ## Links
-Dr. L. Bellaiche's group: https://ccmp.uark.edu/
-Dr. J. Íñiguez's group: https://sites.google.com/site/jorgeiniguezresearch/
-Dr. X. M. Chen's group: http://person.zju.edu.cn/en/xmchen
-Dr. W. Ren's group: http://renlab.shu.edu.cn/
-Dr. J. Wang's group: http://person.zju.edu.cn/en/jiewang
-Dr. H. Zhao's group: http://www.jluimt.com/en/ 
+- Dr. L. Bellaiche's group: https://ccmp.uark.edu/
+- Dr. J. Íñiguez's group: https://sites.google.com/site/jorgeiniguezresearch/
+- Dr. X. M. Chen's group: http://person.zju.edu.cn/en/xmchen
+- Dr. W. Ren's group: http://renlab.shu.edu.cn/
+- Dr. J. Wang's group: http://person.zju.edu.cn/en/jiewang
+- Dr. H. Zhao's group: http://www.jluimt.com/en/ 
  
 
 

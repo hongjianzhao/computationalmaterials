@@ -9,9 +9,9 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 1. Developing atomistic theory for ferroic perovskites (couplings among structural distortion, magnetism and/or ferroelectricity)
 2. Lattice vibrations and phase transitions in perovskites
 - Based on first-principles calculations
-3. Designing novel materials with specific physical properties
-4. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
-5. Crystal structure prediction by USPEX or CALYPSO code
+1. Designing novel materials with specific physical properties
+2. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
+3. Crystal structure prediction by USPEX or CALYPSO code
 
 
 

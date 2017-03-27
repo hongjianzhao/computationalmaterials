@@ -16,7 +16,7 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 
 
 ## Education and Employment 
-##### Research&Technology Associate (2016.01.25-Now)
+##### Junior Research&Technology Associate (2016.01.25-Now)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
 ##### PhD student (2010.09-2015.06)
 Materials Science and Engineering Department, Zhejiang University, China
@@ -98,6 +98,13 @@ Materials Science and Engineering Department, Zhejiang University, China
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en
 - Researcher ID: http://www.researcherid.com/rid/D-7937-2014
 
+## Links
+Dr. L. Bellaiche's group: https://ccmp.uark.edu/
+Dr. J. Íñiguez's group: https://sites.google.com/site/jorgeiniguezresearch/
+Dr. X. M. Chen's group: http://person.zju.edu.cn/en/xmchen
+Dr. W. Ren's group: http://renlab.shu.edu.cn/
+Dr. J. Wang's group: http://mypage.zju.edu.cn/jiewang
+ 
 
 
 ## Contact

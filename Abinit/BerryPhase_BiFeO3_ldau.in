@@ -1,0 +1,73 @@
+# ---------------------------------------------------------------------------------------------------------
+#
+# BiFeO3 with 10 atoms for the berry phase calculations. LDA+U is used (Spin-polarized calculations) within PAW.
+# Here, in order to use occopt=1 (to avoid the metallic occupation), the spinmagntarget is used to fix the 
+# total magnetic moment as 0 uB. 
+#
+# ---------------------------------------------------------------------------------------------------------
+
+##### CONVERGENCE PARAMETERS
+nstep 100
+ecut  35
+pawecutdg 70
+toldfe 1.0d-12
+nband  50 # Too large nband will prevent the convergence...
+occopt 1 # for berryopt -1, the occopt should not be metallic occupation
+
+
+##### PHYSICAL PARAMETERS: Spin, crystal etc...
+nsppol 2
+nspden 2
+nspinor 1
+spinat 0 0 0
+       0 0 0
+       0 0 9
+       0 0 -9
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+spinmagntarget 0   # for occopt 1, spinmagntarget has to be fixed
+
+
+natom 10
+ntypat 3
+typat 1 1 2 2 3 3 3 3 3 3
+znucl 83 26 8
+
+xred  0.000000000         0.000000000         0.000000000
+      0.500000000         0.500000000         0.500000000
+      0.221200004         0.221200004         0.221200004
+      0.721199989         0.721199989         0.721199989
+      0.397300005         0.523299992         0.942299962
+      0.942299962         0.397300005         0.523299992
+      0.523299992         0.942299962         0.397300005
+      0.023299992         0.897300005         0.442299962
+      0.897300005         0.442299962         0.023299992
+      0.442299962         0.023299992         0.897300005
+
+acell   3*1.889727
+
+rprim   5.6367592812         0.0000000000         0.0000000000
+        2.8673243001         4.8529894449         0.0000000000
+        2.8673243001         1.6362838430         4.5688162293
+
+##### K-POINTS
+ngkpt 5 5 5   # total number of k-points has to be equal to number of cores.
+nshiftk 1
+shiftk 0.5 0.5 0.5
+symmorphi 0
+
+# LDA+U Options
+usepawu   1
+lpawu -1  2 -1
+upawu 0.0 5.0 0.0 eV
+jpawu 0.0 0.9 0.0 eV
+
+# Berry phase calculation of the polarization
+berryopt -1  # berryopt=-1 and 4, 6, 7, 14, 16, 17 are compatible with PAW
+rfdir 1 1 1
+
+

@@ -1,0 +1,73 @@
+# ---------------------------------------------------------------------------------------------------------
+#
+# BiFeO3 with 10 atoms for the structural optimization. LDA+U is used (Spin-polarized calculations) within PAW.
+#
+# ---------------------------------------------------------------------------------------------------------
+
+##### CONVERGENCE PARAMETERS
+nstep 100
+ecut  35
+pawecutdg 70
+toldfe 1.0d-12
+nband  50 # Too large nband will prevent the convergence...
+occopt 3 tsmear 300 K 
+
+#Structure optimization
+tolmxf 1.0d-5  # Maximum force
+ecutsm 0.5   #The recommended value is 0.5 Ha
+optcell 2  
+ionmov 2   
+ntime 20    # Ionic steps
+dilatmx 1.05   
+
+
+##### PHYSICAL PARAMETERS: Spin, crystal etc...
+nsppol 2
+nspden 2
+nspinor 1
+spinat 0 0 0
+       0 0 0
+       0 0 9
+       0 0 -9
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+       0 0 0
+
+
+natom 10
+ntypat 3
+typat 1 1 2 2 3 3 3 3 3 3
+znucl 83 26 8
+
+xred  0.000000000         0.000000000         0.000000000
+      0.500000000         0.500000000         0.500000000
+      0.221200004         0.221200004         0.221200004
+      0.721199989         0.721199989         0.721199989
+      0.397300005         0.523299992         0.942299962
+      0.942299962         0.397300005         0.523299992
+      0.523299992         0.942299962         0.397300005
+      0.023299992         0.897300005         0.442299962
+      0.897300005         0.442299962         0.023299992
+      0.442299962         0.023299992         0.897300005
+
+acell   3*1.889727
+
+rprim   5.6367592812         0.0000000000         0.0000000000
+        2.8673243001         4.8529894449         0.0000000000
+        2.8673243001         1.6362838430         4.5688162293
+
+##### K-POINTS
+ngkpt 5 5 5   # total number of k-points has to be equal to number of cores.
+nshiftk 1
+shiftk 0.5 0.5 0.5
+
+# LDA+U Options
+usepawu   1
+lpawu -1  2 -1
+upawu 0.0 5.0 0.0 eV
+jpawu 0.0 0.9 0.0 eV
+
+

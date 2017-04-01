@@ -30,8 +30,9 @@ Materials Science and Engineering Department, Zhejiang University, China
 ## Publications 
 #### [Total: 28, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 5; APL 3; JPCM 6; Others 11]
 - 2017
-1. I-T Bae, A Kovacs, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Elucidation of crystal and electronic structures within highly strained BiFeO3 by transmission electron microscopy and first-principles simulation, Sci. Rep. in press (2017).
-2. H J Zhao, L Bellaiche, X M Chen, J Íñiguez, Improper electric polarization in perovskite oxides with two magnetic sublattices, Nat. Commun. 8, 14025 (01/2017).
+1. Y Yang, C Ma,  M Liu, H J Zhao, Y Lin, C Chen, L Bellaiche, Creating a low-symmetrical insulating, ferroelectric, and antiferromagnetic material from a high-symmetrical, metallic ferromagnet via defect-engineering: the case of LaBaCo2O5+δ compounds, Phys. Rev. B, in press (2017). 
+2. I-T Bae, A Kovacs, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Elucidation of crystal and electronic structures within highly strained BiFeO3 by transmission electron microscopy and first-principles simulation, Sci. Rep., in press (2017).
+3. H J Zhao, L Bellaiche, X M Chen, J Íñiguez, Improper electric polarization in perovskite oxides with two magnetic sublattices, Nat. Commun. 8, 14025 (01/2017).
 - 2016
 1. M C Weber, M Guennou, H J Zhao, J Íñiguez, R Vilarinho, A Almeida, J A Moreira, J Kreisel, Raman spectroscopy of rare-earth orthoferrites RFeO3 (R= La, Sm, Eu, Gd, Tb, Dy), Phys. Rev. B 94 (21), 214103 (12/2016).
 2. S Cao, L Chen, W Zhao, K Xu, G Wang, Y Yang, B Kang, H J Zhao, P Chen, A Stroppa, R-K Zheng, J Zhang, W Ren, J Íñiguez, L Bellaiche, Tuning the Weak Ferromagnetic States in Dysprosium Orthoferrite. Sci. Rep. 6, 37529 (11/2016).

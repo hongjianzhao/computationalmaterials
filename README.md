@@ -10,7 +10,7 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 2. Lattice vibrations and phase transitions in perovskites
 - Based on first-principles calculations
 1. Designing novel materials with specific physical properties
-2. Inducing novel phenomena in traditional materials by pressure/strain induced phase transitions  
+2. Obtaining novel phenomena in traditional materials by pressure/strain induced phase transitions  
 3. Crystal structure prediction by USPEX or CALYPSO code
 
 

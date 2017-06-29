@@ -95,7 +95,7 @@ Materials Science and Engineering Department, Zhejiang University, China
 6. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
 
 ## Reviewer for various journals
-Nat. Commun.; Sci. Rep.; J. Appl. Phys.; J. Phys. D: Appl. Phys.; Phase Transit.; J. Alloy Compd.; J. Phys.: Condens. Matter
+Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Transit. / J. Alloy Compd. / J. Phys.: Condens. Matter
 
 ## GoogleScholar&ResearcherId
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en

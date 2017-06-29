@@ -94,7 +94,8 @@ Materials Science and Engineering Department, Zhejiang University, China
 5. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
 6. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
 
-
+## Reviewer for various journals
+Nat. Commun.; Sci. Rep.; J. Appl. Phys.; J. Phys. D: Appl. Phys.; Phase Transit.; J. Alloy Compd.; J. Phys.: Condens. Matter
 
 ## GoogleScholar&ResearcherId
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en

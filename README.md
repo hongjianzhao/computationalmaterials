@@ -12,7 +12,7 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 1. Designing novel materials with specific physical properties
 2. Obtaining novel phenomena in traditional materials by pressure/strain induced phase transitions  
 3. Crystal structure prediction by USPEX or CALYPSO code
-
+*We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
 
 
 ## Education and Employment 
@@ -36,7 +36,7 @@ Materials Science and Engineering Department, Zhejiang University, China
 4. H J Zhao, L Bellaiche, X M Chen, J Íñiguez, Improper electric polarization in perovskite oxides with two magnetic sublattices, Nat. Commun. 8, 14025 (01/2017).
 - 2016
 1. M C Weber, M Guennou, H J Zhao, J Íñiguez, R Vilarinho, A Almeida, J A Moreira, J Kreisel, Raman spectroscopy of rare-earth orthoferrites RFeO3 (R= La, Sm, Eu, Gd, Tb, Dy), Phys. Rev. B 94 (21), 214103 (12/2016).
-2. S Cao, L Chen, W Zhao, K Xu, G Wang, Y Yang, B Kang, H J Zhao, P Chen, A Stroppa, R-K Zheng, J Zhang, W Ren, J Íñiguez, L Bellaiche, Tuning the Weak Ferromagnetic States in Dysprosium Orthoferrite. Sci. Rep. 6, 37529 (11/2016).
+2. S Cao, L Chen, W Zhao, K Xu, G Wang, Y Yang, B Kang, H J Zhao, P Chen, A Stroppa, R-K Zheng, J Zhang, W Ren, J Íñiguez, L Bellaiche, Tuning the Weak Ferromagnetic States in Dysprosium Orthoferrite, Sci. Rep. 6, 37529 (11/2016).
 3. Y Sun, W Ren, S Cao, H Zhou, H J Zhaoǂ, H Xu, H Zhaoǂ, Hydrostatic pressure driven spin, volume and band gap collapses in SmFeO3: a GGA + U study, Philos. Mag. 96 (15), 1613-1622 (04/2016).(ǂcorresponding author)
 4. H Tian, A J Mao, H J Zhao, Y Cui, H Li, X Y Kuang, Large polarization and dielectric response in epitaxial SrZrO3 films, Phys. Chem. Chem. Phys. 18 (11), 7680-7687 (02/2016).
 5. H J Zhao, J Íñiguez, X M Chen, L Bellaiche, Origin of the magnetization and compensation temperature in rare-earth orthoferrites and orthochromates, Phys. Rev. B 93 (1), 014417 (01/2016).

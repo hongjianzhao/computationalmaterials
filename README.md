@@ -13,7 +13,7 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 2. Obtaining novel phenomena in traditional materials by pressure/strain induced phase transitions  
 3. Crystal structure prediction by USPEX or CALYPSO code
 
--*We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
+*We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
 
 
 ## Education and Employment 

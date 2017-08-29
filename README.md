@@ -1,6 +1,6 @@
 # Welcome to the home page of Hong Jian Zhao
 ## About Hong Jian Zhao
-Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. He is the reviewer for various scientific journals, including Nat. Commun., Sci. Rep., J. Appl. Phys., J. Alloy Compd., J. Phys. D: Appl. Phys., Phase Transit., etc. 
+Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. 
 
 
 
@@ -12,7 +12,8 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 1. Designing novel materials with specific physical properties
 2. Obtaining novel phenomena in traditional materials by pressure/strain induced phase transitions  
 3. Crystal structure prediction by USPEX or CALYPSO code
-*We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
+
+-*We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
 
 
 ## Education and Employment 
@@ -94,6 +95,10 @@ Materials Science and Engineering Department, Zhejiang University, China
 4. H J Zhao, W Ren, Y Yang, J Íñiguez, X M Chen, L Bellaiche, Hybrid improper ferroelectricity in perovskite superlattices, Chinese Materials Annual Meeting, Chengdu, China, July 05-07, 2014 (Invited talk).
 5. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
 6. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
+
+## Contributed presentations
+1. J Iniguez, H J Zhao, X M Chen, L Bellaiche, Improper electric polarization in perovskite oxides with two magnetic sublattices, Bulletin of the American Physical Society 62, 2017.
+2. I T Bae, A Kovács, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Transmission Electron Microscopy and First-Principles Study on Highly Strained BiFeO3 Grown on LaAlO3, Microscopy and Microanalysis 23 (S1), 1608-1609, 2017.
 
 ## Reviewer for various journals
 Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Transit. / J. Alloy Compd. / J. Phys.: Condens. Matter

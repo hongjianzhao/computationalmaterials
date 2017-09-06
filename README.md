@@ -29,9 +29,9 @@ Materials Science and Engineering Department, Zhejiang University, China
 
 
 ## Publications 
-#### [Total: 30, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 6; APL 3; JPCM 6; Others 11]
+#### [Total: 30, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 7; APL 3; JPCM 6; Others 11]
 - 2017
-1. Y Yang, H J Xiang, H J Zhao, A Stroppa, J Zhang, S Cao, J Íñiguez, L Bellaiche, W Ren, Improper ferroelectricity at antiferromagnetic domain walls of perovskite oxides, Submitted.
+1. Y Yang, H J Xiang, H J Zhao, A Stroppa, J Zhang, S Cao, J Íñiguez, L Bellaiche, W Ren, Improper ferroelectricity at antiferromagnetic domain walls of perovskite oxides, Phys. Rev. B, in press (2017).
 2. Y Yang, C Ma,  M Liu, H J Zhao, Y Lin, C Chen, L Bellaiche, Creating a low-symmetrical insulating, ferroelectric, and antiferromagnetic material from a high-symmetrical, metallic ferromagnet via defect-engineering: the case of LaBaCo2O5+δ compounds, Phys. Rev. B 95, 165132 (04/2017). 
 3. I-T Bae, A Kovács, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Elucidation of crystal and electronic structures within highly strained BiFeO3 by transmission electron microscopy and first-principles simulation, Sci. Rep.7, 46498 (04/2017).
 4. H J Zhao, L Bellaiche, X M Chen, J Íñiguez, Improper electric polarization in perovskite oxides with two magnetic sublattices, Nat. Commun. 8, 14025 (01/2017).

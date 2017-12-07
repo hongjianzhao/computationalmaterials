@@ -19,6 +19,8 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 ## Education and Employment 
 ##### Junior Research&Technology Associate (2016.01.25-Now)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
+##### Scientific visitor (2017.11.07~2017.11.27)
+Physics Department, University of Arkansas, USA (Supported by GREENOX)
 ##### PhD student (2010.09-2015.06)
 Materials Science and Engineering Department, Zhejiang University, China
 ##### Visiting student (2012.10.17-2013.06.27)

@@ -32,8 +32,8 @@ Materials Science and Engineering Department, Zhejiang University, China
 
 ## Publications 
 #### [Total: 30, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 7; APL 3; JPCM 6; Others 11]
--2018
-1. P Chen, M N Grisolia, H J Zhao, O E González-Vázquez, L Bellaiche, M Bibes, B-G Liu, J Íñiguez, Energetics of oxygen-octahedra rotations in perovskite oxides from first principles, submitted.
+- 2018
+1. P Chen, M N Grisolia, H J Zhao, O E González-Vázquez, L Bellaiche, M Bibes, B-G Liu, J Íñiguez, Energetics of oxygen-octahedra rotations in perovskite oxides from first principles, Phys. Rev. B, in press.
 2. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez,  Meta-screening and permanence of polar distortions in metallized ferroelectrics, submitted.
 
 - 2017

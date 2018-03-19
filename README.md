@@ -98,12 +98,13 @@ Materials Science and Engineering Department, Zhejiang University, China
 
 
 ## Presentations
-1. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Polar distortion of ferroelectrics under carrier doping, The TO-BE Spring meeting 2017, Luxembourg city, Luxembourg, April 3-5, 2017 (oral).
-2. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Ferroelectricity under charge carrier doping, E-MRS 2016 Fall Meeting, Warsaw, Poland, September 19-22, 2016 (Oral).
-3. H J Zhao, Exploring novel ferroic materials in perovskite oxides, School of Mechanical Science and Engineering Seminar, Jilin University, China, August 15th, 2016 (Invited talk in seminar).
-4. H J Zhao, W Ren, Y Yang, J Íñiguez, X M Chen, L Bellaiche, Hybrid improper ferroelectricity in perovskite superlattices, Chinese Materials Annual Meeting, Chengdu, China, July 05-07, 2014 (Invited talk).
-5. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
-6. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
+1. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Screening in metallized ferroelectrics, DPG Spring Meeting (Germany Physical Society) 2018, Berlin, Germany, March 11-16, 2018 (oral).
+2. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Polar distortion of ferroelectrics under carrier doping, The TO-BE Spring meeting 2017, Luxembourg city, Luxembourg, April 3-5, 2017 (oral).
+3. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Ferroelectricity under charge carrier doping, E-MRS 2016 Fall Meeting, Warsaw, Poland, September 19-22, 2016 (Oral).
+4. H J Zhao, Exploring novel ferroic materials in perovskite oxides, School of Mechanical Science and Engineering Seminar, Jilin University, China, August 15th, 2016 (Invited talk in seminar).
+5. H J Zhao, W Ren, Y Yang, J Íñiguez, X M Chen, L Bellaiche, Hybrid improper ferroelectricity in perovskite superlattices, Chinese Materials Annual Meeting, Chengdu, China, July 05-07, 2014 (Invited talk).
+6. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
+7. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
 
 ## Contributed presentations
 1. J Iniguez, H J Zhao, X M Chen, L Bellaiche, Improper electric polarization in perovskite oxides with two magnetic sublattices, Bulletin of the American Physical Society 62, 2017.

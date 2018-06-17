@@ -111,7 +111,7 @@ Materials Science and Engineering Department, Zhejiang University, China
 2. I T Bae, A Kovács, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Transmission Electron Microscopy and First-Principles Study on Highly Strained BiFeO3 Grown on LaAlO3, Microscopy and Microanalysis 23 (S1), 1608-1609, 2017.
 
 ## Reviewer for various journals
-Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Transit. / J. Alloy Compd. / J. Phys.: Condens. Matter
+Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Transit. / J. Alloy Compd. / J. Phys.: Condens. Matter / NPJ COMPUT MATER
 
 ## GoogleScholar&ResearcherId
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en

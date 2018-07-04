@@ -34,10 +34,11 @@ Materials Science and Engineering Department, Zhejiang University, China
 #### [Total: 35, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 9; APL 3; JPCM 6; Others 11]
 - 2018
 1. P Chen, M N Grisolia, H J Zhao, O E González-Vázquez, L Bellaiche, M Bibes, B-G Liu, J Íñiguez, Energetics of oxygen-octahedra rotations in perovskite oxides from first principles, Phys. Rev. B 97, 024113 (2018) [Editor's suggestions].
-2. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez,  Meta-screening and permanence of polar distortions in metallized ferroelectrics, Phys. Rev B 97, 054107 (2018).
+2. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez,  Meta-screening and permanence of polar distortions in metallized ferroelectrics, Phys. Rev. B 97, 054107 (2018).
 3. Y Wei, P Nukala, M Salverda, S Matzen, H J Zhao, J Momand, A Everhardt, G R Blake, P Lecoeur, B J Kooi, J Íñiguez, B Dkhil, B, Noheda, A rhombohedral ferroelectric phase in epitaxially-strained Hf0.5Zr0.5O2, submitted.
-4. I-T Bae, T Ichinose, S Yasui, K Sato, A Kovács, H J Zhao, J Íñiguez, H Naganuma, Strategy to utilize transmission electron microscopy and x-ray diffraction to investigate biaxial strain effect in epitaxial BiFeO3 films, submitted.
-5. T. Bayaraa, Y Yang, H J Zhao, J Íñiguez and L. Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Submitted.
+4. I-T Bae, T Ichinose, S Yasui, K Sato, A Kovács, H J Zhao, J Íñiguez, H Naganuma, Strategy to utilize transmission electron microscopy and x-ray diffraction to investigate biaxial strain effect in epitaxial BiFeO3 films, Jpn. J. Appl. Phys. 57, 0902A5 (2018).
+5. T Bayaraa, Y Yang, H J Zhao, J Íñiguez and L Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Submitted.
+6. L Chen, C Paillard, H J Zhao, J Íñiguez, Y Yang and L Bellaiche, Engineering properties of hybrid perovskites by controlling the width of domains with charged walls, Submitted.
 
 - 2017
 1. Y Yang, H J Xiang, H J Zhao, A Stroppa, J Zhang, S Cao, J Íñiguez, L Bellaiche, W Ren, Improper ferroelectricity at antiferromagnetic domain walls of perovskite oxides, Phys. Rev. B 96, 104431 (09/2017).

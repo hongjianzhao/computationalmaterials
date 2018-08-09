@@ -37,7 +37,7 @@ Materials Science and Engineering Department, Zhejiang University, China
 2. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez,  Meta-screening and permanence of polar distortions in metallized ferroelectrics, Phys. Rev. B 97, 054107 (2018).
 3. Y Wei, P Nukala, M Salverda, S Matzen, H J Zhao, J Momand, A Everhardt, G R Blake, P Lecoeur, B J Kooi, J Íñiguez, B Dkhil, B, Noheda, A rhombohedral ferroelectric phase in epitaxially-strained Hf0.5Zr0.5O2, submitted.
 4. I-T Bae, T Ichinose, S Yasui, K Sato, A Kovács, H J Zhao, J Íñiguez, H Naganuma, Strategy to utilize transmission electron microscopy and x-ray diffraction to investigate biaxial strain effect in epitaxial BiFeO3 films, Jpn. J. Appl. Phys. 57, 0902A5 (2018).
-5. T Bayaraa, Y Yang, H J Zhao, J Íñiguez and L Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Physical Review Materials (in press).
+5. T Bayaraa, Y Yang, H J Zhao, J Íñiguez and L Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Phys. Rev. Materials 2, 084404.
 6. L Chen, C Paillard, H J Zhao, J Íñiguez, Y Yang and L Bellaiche, Engineering properties of hybrid perovskites by controlling the width of domains with charged walls, Submitted.
 7. H J Zhao, L Bellaiche and J Íñiguez, First-principles screening of ABO3 oxides with two magnetic sublattices, submitted.
 

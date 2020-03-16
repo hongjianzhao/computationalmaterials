@@ -1,6 +1,6 @@
 # Welcome to the home page of Hong Jian Zhao
 ## About Hong Jian Zhao
-Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher in computational materials science. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. 
+Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher University of Arkansas. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. 
 
 
 
@@ -16,21 +16,13 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 *We also provide theoretical insights to experimental findings (see Sci. Rep.7, 46498 (04/2017), Sci. Rep. 6, 37529 (11/2016), Phys. Rev. B 94 (21), 214103 (12/2016), Appl. Phys. Lett. 106 (20), 202903(05/2015), Appl. Phys. Lett. 105 (17), 172402 (10/2014), J. Magn. Magn. Mater. 371, 52-59 (12/2014), J. Appl. Phys. 112 (6), 064104 (09/2012), etc). 
 
 
-## Education and Employment 
-##### Postdoc Researcher (2019.05.01-Now)
+## Education & Employment
+##### Postdoc Researcher (2019.05-Now)
 Physics Department and Institute for Nanoscience and Engineering, University of Arkansas at Fayetteville, USA
-##### Junior Research&Technology Associate (2016.01.25-2019.04.30)
+##### Junior Research&Technology Associate (2016.01-2019.04)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
-##### Scientific visitor (2017.11.07~2017.11.27)
-Physics Department, University of Arkansas, USA (Supported by GREENOX)
 ##### PhD student (2010.09-2015.06)
 Materials Science and Engineering Department, Zhejiang University, China
-##### Visiting student (2012.10.17-2013.06.27)
-Physics Department, University of Arkansas, USA
-##### Bachelor student (2006.09-2010.06)
-Materials Science and Engineering Department, Zhejiang University, China
-
-
 
 ## Publications 
 #### [Total: 40 ]

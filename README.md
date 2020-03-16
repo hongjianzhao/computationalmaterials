@@ -1,7 +1,6 @@
 # Welcome to the home page of Hong Jian Zhao
 ## About Hong Jian Zhao
-Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China) in June 2015. Then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate. Currently, he is a postdoc researcher University of Arkansas. He uses first-principles calculations (based on density functional theory) and symmetry analysis (based on group theory) to study the physical behaviors of various materials, most of which are ferroic materials. 
-
+Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (China); then, he entered the Materials Research and Technology department of Luxembourg Institute of Science and Technology (Luxembourg), as a junior Research&Technology associate; currently, he is a postdoc researcher University of Arkansas. He uses various theoretical/computational techniques (first-principles simulations, group-representation-theory based symmetry analysis) to understand the physical phenomena (e.g., magnetically driven multiferroics, spin-orbital physics) in complex compounds.
 
 
 ## Research interests (Focusing on ferroic materials)

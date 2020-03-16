@@ -17,7 +17,9 @@ Hong Jian Zhao received his PhD (@Materials Science) from Zhejiang University (C
 
 
 ## Education and Employment 
-##### Junior Research&Technology Associate (2016.01.25-Now)
+##### Postdoc Researcher (2019.05.01-Now)
+Physics Department and Institute for Nanoscience and Engineering, University of Arkansas at Fayetteville, USA
+##### Junior Research&Technology Associate (2016.01.25-2019.04.30)
 Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Luxembourg
 ##### Scientific visitor (2017.11.07~2017.11.27)
 Physics Department, University of Arkansas, USA (Supported by GREENOX)
@@ -31,16 +33,19 @@ Materials Science and Engineering Department, Zhejiang University, China
 
 
 ## Publications 
-#### [Total: 37, Nat. Commun. 2; Adv. Funct. Mater. 1; PRB 9; PRMater 1; APL 3; JPCM 6; Others 12]
+#### [Total: 40 ]
+- 2019
+1. H J Zhao, L Bellaiche, J Íñiguez, First-principles screening of  oxides with two magnetic sublattices, Physical Review Materials 3, 064406 (2019).
+2. H J Zhao, J Íñiguez, Creating multiferroic and conductive domain walls in common ferroelastic compounds, npj Computational Materials 5, 1-7 (2019).
+3. F Belviso, ..., H J Zhao, ..., Atomic-Scale Design Protocols toward Energy, Electronic, Catalysis, and Sensing Applications, Inorganic chemistry 58, 14939-14980 (2019).
+4. R Arras, J Gosteau, H J Zhao, C Paillard, Y Yang, L Bellaiche, Rashba-like spin-orbit and strain effects in tetragonal , Physical Review B 100, 174415 (2019).
 - 2018
 1. P Chen, M N Grisolia, H J Zhao, O E González-Vázquez, L Bellaiche, M Bibes, B-G Liu, J Íñiguez, Energetics of oxygen-octahedra rotations in perovskite oxides from first principles, Phys. Rev. B 97, 024113 (2018) [Editor's suggestions].
 2. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez,  Meta-screening and permanence of polar distortions in metallized ferroelectrics, Phys. Rev. B 97, 054107 (2018).
-3. Y Wei, P Nukala, M Salverda, S Matzen, H J Zhao, J Momand, A Everhardt, G R Blake, P Lecoeur, B J Kooi, J Íñiguez, B Dkhil, B, Noheda, A rhombohedral ferroelectric phase in epitaxially-strained Hf0.5Zr0.5O2, submitted.
+3. Y Wei, P Nukala, M Salverda, S Matzen, H J Zhao, J Momand, A Everhardt, G R Blake, P Lecoeur, B J Kooi, J Íñiguez, B Dkhil, B, Noheda, A rhombohedral ferroelectric phase in epitaxially strained Hf 0.5 Zr 0.5 O 2 thin films, Nature materials 17, 1095-1100 (2018).
 4. I-T Bae, T Ichinose, S Yasui, K Sato, A Kovács, H J Zhao, J Íñiguez, H Naganuma, Strategy to utilize transmission electron microscopy and x-ray diffraction to investigate biaxial strain effect in epitaxial BiFeO3 films, Jpn. J. Appl. Phys. 57, 0902A5 (2018).
-5. T Bayaraa, Y Yang, H J Zhao, J Íñiguez and L Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Phys. Rev. Materials 2, 084404.
-6. L Chen, C Paillard, H J Zhao, J Íñiguez, Y Yang and L Bellaiche, Engineering properties of hybrid perovskites by controlling the width of domains with charged walls, Submitted.
-7. H J Zhao, L Bellaiche and J Íñiguez, First-principles screening of ABO3 oxides with two magnetic sublattices, submitted.
-
+5. T Bayaraa, Y Yang, H J Zhao, J Íñiguez and L Bellaiche, Structural and magnetic transitions accompanied by large responses in epitaxial Sr0.5Ba0.5MnO3 films, Phys. Rev. Materials 2, 084404 (2018).
+6. L Chen, C Paillard, H J Zhao, J Íñiguez, Y Yang and L Bellaiche, Tailoring properties of hybrid perovskites by domain-width engineering with charged walls, npj Computational Materials 4, 1-6 (2018).
 - 2017
 1. Y Yang, H J Xiang, H J Zhao, A Stroppa, J Zhang, S Cao, J Íñiguez, L Bellaiche, W Ren, Improper ferroelectricity at antiferromagnetic domain walls of perovskite oxides, Phys. Rev. B 96, 104431 (09/2017).
 2. Y Yang, C Ma,  M Liu, H J Zhao, Y Lin, C Chen, L Bellaiche, Creating a low-symmetrical insulating, ferroelectric, and antiferromagnetic material from a high-symmetrical, metallic ferromagnet via defect-engineering: the case of LaBaCo2O5+δ compounds, Phys. Rev. B 95, 165132 (04/2017). 
@@ -79,45 +84,10 @@ Materials Science and Engineering Department, Zhejiang University, China
 4. H J Zhao, X Q Liu, X M Chen, Density functional investigations on electronic structures, magnetic ordering and ferroelectric phase transition in multiferroic Bi2NiMnO6, AIP Adv. 2, 022115(04/2012).
 
 
-
-## Awards and Honors
-- Outstanding Graduates of Zhejiang Province (PhD student), The Department of Education of Zhejiang Province (2015)
-- Outstanding Graduates of Zhejiang University (PhD student), Zhejiang University (2015)
-- 2013-2014, National Scholarship for Ph.D Students, The Ministry of Education, People’s Republic of China (2014)
-- 2013-2014, Award of Honor for Graduate, Zhejiang University (2014)
-- 2013-2014, Graduate of Merits/Triple A graduate, Zhejiang University (2014)
-- Outstanding Graduates of Zhejiang Province (Bachelor), The Ministry of Education of Zhejiang Province (2010)
-- Outstanding Graduates of Zhejiang University (Bachelor), Zhejiang University (2010)
-- 2008-2009, National Scholarship, The Ministry of Education, People’s Republic of China (2009)
-- 2008-2009, Scholarship for Excellent in Research and Innovation, Zhejiang University (2009)
-- 2008-2009, Excellent Student Awards, Zhejiang University (2009)
-- 2008-2009, First-Class Scholarship for Outstanding Merits, Zhejiang University (2009)
-- 2007-2008, National Scholarship, The Ministry of Education, People’s Republic of China (2008)
-- 2007-2008, Scholarship for Excellent in Research and Innovation, Zhejiang University (2008)
-- 2007-2008, Excellent Student Awards, Zhejiang University (2008)
-- 2007-2008, First-Class Scholarship for Outstanding Merits, Zhejiang University (2008)
-
-
-
-## Presentations
-1. H J Zhao, A Filippetti, C Escorihuela-Sayalero, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Screening in metallized ferroelectrics, DPG Spring Meeting (Germany Physical Society) 2018, Berlin, Germany, March 11-16, 2018 (oral).
-2. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Polar distortion of ferroelectrics under carrier doping, The TO-BE Spring meeting 2017, Luxembourg city, Luxembourg, April 3-5, 2017 (oral).
-3. H J Zhao, A Filippetti, P Delugas, E Canadell, L Bellaiche, V Fiorentini, J Íñiguez, Ferroelectricity under charge carrier doping, E-MRS 2016 Fall Meeting, Warsaw, Poland, September 19-22, 2016 (Oral).
-4. H J Zhao, Exploring novel ferroic materials in perovskite oxides, School of Mechanical Science and Engineering Seminar, Jilin University, China, August 15th, 2016 (Invited talk in seminar).
-5. H J Zhao, W Ren, Y Yang, J Íñiguez, X M Chen, L Bellaiche, Hybrid improper ferroelectricity in perovskite superlattices, Chinese Materials Annual Meeting, Chengdu, China, July 05-07, 2014 (Invited talk).
-6. H J Zhao, W Ren, Y Yang, X M Chen, L Bellaiche, Effect of chemical and hydrostatic pressure on structural and magnetic properties of RFeO3 (R = Rare-earth ions) from first-principles, Electroceramics XIV, Bucharest, Romania, June 16-20, 2014 (Oral).
-7. H J Zhao, X M Chen, Magnetic behavior and ferroelectric phase transition in multiferroic Bi2NiMnO6: density functional study, Chinese Materials Annual Meeting, Taiyuan, China, July 13-18, 2012 (Oral).
-
-## Contributed presentations
-1. J Iniguez, H J Zhao, X M Chen, L Bellaiche, Improper electric polarization in perovskite oxides with two magnetic sublattices, Bulletin of the American Physical Society 62, 2017.
-2. I T Bae, A Kovács, H J Zhao, J Íñiguez, S Yasui, T Ichinose, H Naganuma, Transmission Electron Microscopy and First-Principles Study on Highly Strained BiFeO3 Grown on LaAlO3, Microscopy and Microanalysis 23 (S1), 1608-1609, 2017.
-
-## Reviewer for various journals
-Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Transit. / J. Alloy Compd. / J. Phys.: Condens. Matter / NPJ COMPUT MATER / Physica B
-
 ## GoogleScholar&ResearcherId
 - Google scholar: https://scholar.google.com/citations?user=KCtE4PcAAAAJ&hl=en
 - Researcher ID: http://www.researcherid.com/rid/D-7937-2014
+- ORCID: https://orcid.org/0000-0002-8921-2477
 
 ## Links
 - Dr. L. Bellaiche's group: https://ccmp.uark.edu/
@@ -131,5 +101,5 @@ Nat. Commun. / Sci. Rep. / J. Appl. Phys. / J. Phys. D: Appl. Phys. / Phase Tran
 
 ## Contact
 ### Dr. Hong Jian Zhao
-- Materials Research and Technology Department, Luxembourg Institute of Science and Technology (LIST), 5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg
-- Email: dielectric_hjzhao@126.com
+- Physics Department and Institute for Nanoscience and Engineering University of Arkansas, Fayetteville, Arkansas 72701, USA
+- Email: dielectric_hjzhao@126.com or hz001@uark.edu
